@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Biswarup Mukherjee"
+title                    : "Biswarup Mukherjee, PhD"
 title_separator          : "-"
-name                     : &name "Dr. Biswarup Mukherjee"
+name                     : &name "Biswarup Mukherjee"
 description              : &description "Assistant Professor at Indian Institute of Technology Delhi"
 url                      : https://bmukherjee-iitd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Biswarup Mukherjee"
+  name             : "Biswarup Mukherjee"
   avatar           : "profile.png"
-  bio              : "Assistant Professor <br>Center for Biomedical Engineering<br>Indian Institute of Technology Delhi<br>&<br>Department of Biomedical Engineering<br>All India Institute of Medical Sciences, New Delhi"
+  bio              : "Assistant Professor, <a href="http://cbme.iitd.ac.in/">Center for Biomedical Engineering</a>, <a href="https://home.iitd.ac.in/">Indian Institute of Technology Delhi</a>"
   location         : "New Delhi, India"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=RJN3e6AAAAAJ&hl=en&oi=ao"
